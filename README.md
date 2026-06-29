@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riya89/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/riya89/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/riya89/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/riya89/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/riya89/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/riya89/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/riya89/Leetcode/tree/master/0020-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/riya89/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/riya89/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
