@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/riya89/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/riya89/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/riya89/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/riya89/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/riya89/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riya89/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riya89/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/riya89/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0460-lfu-cache](https://github.com/riya89/Leetcode/tree/master/0460-lfu-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/riya89/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/riya89/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/riya89/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/riya89/Leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/riya89/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riya89/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/riya89/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
