@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riya89/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/riya89/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/riya89/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/riya89/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riya89/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riya89/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/riya89/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/riya89/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riya89/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/riya89/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Monotonic Stack
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/riya89/Leetcode/tree/master/0460-lfu-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/riya89/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
