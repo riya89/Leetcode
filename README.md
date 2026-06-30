@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/riya89/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/riya89/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/riya89/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/riya89/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riya89/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riya89/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/riya89/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/riya89/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/riya89/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/riya89/Leetcode/tree/master/0686-repeated-string-match) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/riya89/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/riya89/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/riya89/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
