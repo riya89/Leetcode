@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/riya89/Leetcode/tree/master/0013-roman-to-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/riya89/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
